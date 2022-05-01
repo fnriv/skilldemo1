@@ -5,6 +5,6 @@ public class SkillDemoTest {
     
     @Test
     public void last3Test() {
-        assertEquals("ton", SkillDemo.last3("triton")); //failing test
+        assertEquals("ton", SkillDemo.last3("triton")); 
     }
 }
